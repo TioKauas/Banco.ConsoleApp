@@ -1,0 +1,15 @@
+D:\Projetos C#\Exercicios-Academia\Banco.ConsoleApp\obj\Debug\net7.0\Banco.ConsoleApp.csproj.AssemblyReference.cache
+D:\Projetos C#\Exercicios-Academia\Banco.ConsoleApp\obj\Debug\net7.0\Banco.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Exercicios-Academia\Banco.ConsoleApp\obj\Debug\net7.0\Banco.ConsoleApp.AssemblyInfoInputs.cache
+D:\Projetos C#\Exercicios-Academia\Banco.ConsoleApp\obj\Debug\net7.0\Banco.ConsoleApp.AssemblyInfo.cs
+D:\Projetos C#\Exercicios-Academia\Banco.ConsoleApp\obj\Debug\net7.0\Banco.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Exercicios-Academia\Banco.ConsoleApp\bin\Debug\net7.0\Banco.ConsoleApp.exe
+D:\Projetos C#\Exercicios-Academia\Banco.ConsoleApp\bin\Debug\net7.0\Banco.ConsoleApp.deps.json
+D:\Projetos C#\Exercicios-Academia\Banco.ConsoleApp\bin\Debug\net7.0\Banco.ConsoleApp.runtimeconfig.json
+D:\Projetos C#\Exercicios-Academia\Banco.ConsoleApp\bin\Debug\net7.0\Banco.ConsoleApp.dll
+D:\Projetos C#\Exercicios-Academia\Banco.ConsoleApp\bin\Debug\net7.0\Banco.ConsoleApp.pdb
+D:\Projetos C#\Exercicios-Academia\Banco.ConsoleApp\obj\Debug\net7.0\Banco.ConsoleApp.dll
+D:\Projetos C#\Exercicios-Academia\Banco.ConsoleApp\obj\Debug\net7.0\refint\Banco.ConsoleApp.dll
+D:\Projetos C#\Exercicios-Academia\Banco.ConsoleApp\obj\Debug\net7.0\Banco.ConsoleApp.pdb
+D:\Projetos C#\Exercicios-Academia\Banco.ConsoleApp\obj\Debug\net7.0\Banco.ConsoleApp.genruntimeconfig.cache
+D:\Projetos C#\Exercicios-Academia\Banco.ConsoleApp\obj\Debug\net7.0\ref\Banco.ConsoleApp.dll
